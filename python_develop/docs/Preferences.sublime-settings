@@ -1,0 +1,26 @@
+{
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Tomorrow Color Schemes/Tomorrow-Night-Eighties.tmTheme",
+	"default_encoding": "utf-8",
+	"font_size": 18,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"match_brackets": false,
+	"match_brackets_angle": false,
+	"match_brackets_braces": false,
+	"match_brackets_content": false,
+	"match_brackets_square": false,
+	"match_tags": false,
+	"soda_classic_tabs": true,
+	"tab_size": 4,
+	"theme": "Soda Dark 3.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"word_wrap": true,
+	"wrap_width": 0
+}
